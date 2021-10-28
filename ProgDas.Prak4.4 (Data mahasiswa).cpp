@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <iomanip>
 using namespace std;
-//cara buat tampilan tabel di c++ oleh Hendy 79
+
 int main(){
 	int b[1000], c[1000], n;
 	char a[1000][30];
